@@ -1,0 +1,7 @@
+{
+  "name": "InboxGuards Email Check",
+  "description": "Email deliverability and security reports plus SPF, DKIM and DMARC fix plans, paid via x402",
+  "url": "https://api.inboxguardstest.com",
+  "category": "services-endpoints",
+  "logo": "/logos/inboxguards.png"
+}

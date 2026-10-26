@@ -1,0 +1,7 @@
+{
+  "name": "PulseWatch",
+  "description": "Is this vendor down? Live status and recent incidents for 1,700+ SaaS/cloud vendors via x402",
+  "url": "https://api.pulsewatch.us",
+  "category": "services-endpoints",
+  "logo": "/logos/pulsewatch.png"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "PaidPilot",
+  "description": "Invoice tools for agents: invoice PDFs, reminder drafts, late-fee and payment-terms math via x402",
+  "url": "https://api.paidpilot.io",
+  "category": "services-endpoints",
+  "logo": "/logos/paidpilot.png"
+}

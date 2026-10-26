@@ -1,0 +1,7 @@
+{
+  "name": "OrionCMD Checks",
+  "description": "Pay-per-call website checks for agents: TLS, DNS, email auth, headers, expiry and threats via x402",
+  "url": "https://api.orioncmd.com",
+  "category": "services-endpoints",
+  "logo": "/logos/orioncmd.svg"
+}

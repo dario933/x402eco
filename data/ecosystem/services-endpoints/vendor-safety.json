@@ -1,0 +1,7 @@
+{
+  "name": "Vendor Safety Check",
+  "description": "One-call vendor or domain safety verdict from cert, DNS, email and leak-site checks, $0.04 via x402",
+  "url": "https://vendor-safety.orioncmd.com",
+  "category": "services-endpoints",
+  "logo": "/logos/orioncmd.svg"
+}

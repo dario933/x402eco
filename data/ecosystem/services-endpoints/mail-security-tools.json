@@ -1,0 +1,7 @@
+{
+  "name": "Mail Security Tools",
+  "description": "Graded email security scores, bulk scoring, address checks and DNS fix plans, paid via x402",
+  "url": "https://api.mailsecuritytools.com",
+  "category": "services-endpoints",
+  "logo": "/logos/mailsecuritytools.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "IsItDownAPI",
+  "description": "Is this vendor down? Live status and recent incidents for 1,400+ SaaS/cloud vendors via x402",
+  "url": "https://api.isitdownapi.com",
+  "category": "services-endpoints",
+  "logo": "/logos/isitdownapi.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Dragons Eye",
+  "description": "Ransomware leak-site claim lookups, threat-indicator checks and CVE intel, paid per call via x402",
+  "url": "https://api.ransomware-tracker.com",
+  "category": "services-endpoints",
+  "logo": "/logos/ransomware-tracker.png"
+}
